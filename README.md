@@ -1,6 +1,4 @@
----
 
-````markdown
 # Haskell MOOC – My Course Progress and Solutions
 
 This repository contains my solutions and notes from the [Haskell MOOC](https://haskell.mooc.fi/) – a free, open online course on Haskell programming. The course is designed by the University of Helsinki and is ideal for learning functional programming from scratch.
@@ -56,5 +54,4 @@ This repository is meant for **learning and documentation** purposes. All code i
 
 * Official Course Website: [https://haskell.mooc.fi/](https://haskell.mooc.fi/)
 
----
 
